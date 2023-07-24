@@ -1,2 +1,5 @@
-# snehal_mane_portfolio
-Portfolio Website using react.js
+Simple portfolio Website Using React.js
+
+//yarn install
+
+//yarn start
